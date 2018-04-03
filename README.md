@@ -5,8 +5,8 @@
 
    Commands on terminal :
        
-$ npm install
-$ npm start
+    $ npm install
+    $ npm start
 
 
 Open in your browser :  http://localhost:8080
